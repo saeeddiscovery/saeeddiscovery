@@ -1,4 +1,7 @@
 ### Hi there 👋
+You are in **Saeed Mohagheghi**'s Github page*
+
+**Programmer, Researcher, Educator and Biomedical Engineer**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeeddiscovery&label=Profile%20views&color=0e75b6&style=flat" alt="saeeddiscovery" /> </p>
 
@@ -8,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flask / Django / Flutter**
 
-- 📫 How to reach me **saeed.discovery@gmail.com**
+- 📫 You can reach me via **saeed.discovery@gmail.com** / **[DaneshJoy website](https://daneshjoy.ir)**
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
