@@ -10,6 +10,33 @@
 
 - 📫 How to reach me **saeed.discovery@gmail.com**
 
+<h3 align="left">Programming Languages</h3>
+<p align="left"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  
+<h3 align="left">Softwares & Libraries</h3>
+<p align="left"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
+  
+<h3 align="left">Operating Systems</h3>
+<p align="left"> 
+  <img src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt="microsft windows" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeeddiscovery&show_icons=true&locale=en&layout=compact" alt="saeeddiscovery" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeeddiscovery&show_icons=true&locale=en" alt="saeeddiscovery" /></p>
+
 <!--
 **saeeddiscovery/saeeddiscovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
