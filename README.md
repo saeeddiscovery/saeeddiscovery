@@ -29,9 +29,9 @@ You are in **Saeed Mohagheghi**'s Github page*
 <h3 align="left">Softwares & Libraries</h3>
 <p align="left"> 
   <a href="https://www.tensorflow.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="flask" width="50" height="50"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="flask" width="40" height="40"/></a>
   <a href="https://keras.io/">
-  <img src="https://keras.io/img/logo.png" alt="flask" width="90" height="30"/></a>
+  <img src="https://keras.io/img/logo.png" alt="flask" width="100" height="30"/></a>
   <a href="https://flask.palletsprojects.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/></a>
   <a href="https://www.djangoproject.com/">
