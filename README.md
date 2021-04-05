@@ -41,11 +41,11 @@ You are in **Saeed Mohagheghi**'s Github page*
   <a href="https://mariadb.org/">
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="50" height="50"/></a>
   <a href="https://www.sqlite.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="sqlite" width="50" height="30"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="sqlite" width="60" height="30"/></a>
   <a href="https://code.visualstudio.com/">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
   <a href="https://www.spyder-ide.org/">
-  <img src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png" alt="spyder" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/800px-Spyder_logo.svg.png" alt="spyder" width="40" height="40"/>
   
 <h3 align="left">Operating Systems</h3>
 <p align="left"> 
