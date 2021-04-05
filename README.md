@@ -42,12 +42,9 @@ You are in **Saeed Mohagheghi**'s Github page*
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="50" height="50"/></a>
   <a href="https://www.sqlite.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="sqlite" width="60" height="30"/></a>
-  <a href="https://code.visualstudio.com/">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
-  <a href="https://www.spyder-ide.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/800px-Spyder_logo.svg.png" alt="spyder" width="40" height="40"/>
+
   
-<h3 align="left">Operating Systems</h3>
+<h3 align="left">Operating Systems & IDEs</h3>
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/windows">
   <img src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt="microsft windows" width="40" height="40"/></a>
@@ -57,6 +54,12 @@ You are in **Saeed Mohagheghi**'s Github page*
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>
   <a href="https://www.android.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://github.com/microsoft/terminal">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="windows terminal" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
+  <a href="https://www.spyder-ide.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/800px-Spyder_logo.svg.png" alt="spyder" width="40" height="40"/>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeeddiscovery&show_icons=true&locale=en&layout=compact" alt="saeeddiscovery" /></p>
 <br>
