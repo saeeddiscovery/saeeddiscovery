@@ -33,19 +33,19 @@ You are in **Saeed Mohagheghi**'s Github page*
   <a href="https://keras.io/">
   <img src="https://keras.io/img/logo.png" alt="flask" width="100" height="30"/></a>
   <a href="https://flask.palletsprojects.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="60" height="60"/></a>
   <a href="https://www.djangoproject.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="50" height="50"/></a>
   <a href="https://www.docker.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
   <a href="https://git-scm.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/></a>
   <a href="https://www.mysql.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://mariadb.org/">
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="50" height="50"/></a>
   <a href="https://www.sqlite.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="sqlite" width="60" height="30"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="sqlite" width="70" height="30"/></a>
 
   
 <h3 align="left">Operating Systems & IDEs</h3>
