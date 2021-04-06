@@ -1,6 +1,6 @@
 ### Hi there 👋
  
- I am **Saeed Mohagheghi**
+ I'm **Saeed**
 
 **Programmer, Researcher, Educator and Biomedical Engineer**
 
